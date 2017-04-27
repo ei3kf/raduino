@@ -103,7 +103,7 @@ int last_sm;
    ground and +5v lines available on the connector. This implments the tuning mechanism
 */
 
-#define SMETER (A2)
+#define SMETER (A0)
 #define ANALOG_KEYER (A1)
 #define CAL_BUTTON (A2)
 #define FBUTTON (A3)
